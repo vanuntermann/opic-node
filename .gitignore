@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+build/
+src/**/*.js*
+test/**/*.js*
+node_modules/
+typings/
+npm-debug.log*
+
+test-results.xml
